@@ -1,0 +1,2 @@
+the first project is about stock market trend prediction .it involves time series analysis compiled with RNN and monte carlo simulation
+ther second one is an extensive project about data analysis and forecasting .it involves extensive dashboards also for effective visuals the project is all about predicting the prices of different crops both  statewise and crop wise the project reads 2 datafames and performs predictions after learnig from them.
